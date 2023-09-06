@@ -32,6 +32,8 @@ The landmark images are a subset of the Google Landmarks Dataset v2.
 
 ## Repository Structure
 
+
+
   ├── sample_image_folder    <- contains a sample images to test the application
   ├── src    <- python file for all project
   	├── _init_.py             
@@ -43,6 +45,7 @@ The landmark images are a subset of the Google Landmarks Dataset v2.
        	├── predi ctor.py <- model predictor python file
 	├── train.py <- model trianing python file
  	├── transfer.py <- transfer learning python file
+  
   ├── app notebook and app HTML     <- Jupyter notebook and HTML link to test sample images
   ├── Cnn_from_scratch notebook and HTML file     <- This is a Jupyter notebook or HTML file where I test the source Python files
   ├── requirement text file     <- This is the requirement text file that needs to be installed locally in order to run the app and notebook
