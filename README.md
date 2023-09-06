@@ -12,7 +12,7 @@ In this project, I address this problem by building a CNN-powered app to automat
 
 ## Outcome
 
-Built a Convolutional Neural Network Model from scratch and a pretrained model (RESNET) to train the dataset. 
+Built a Convolutional Neural Network Model from scratch and a pre-trained model (RESNET) to train the dataset. 
 
 ## How to use the app
 
@@ -37,9 +37,9 @@ The landmark images are a subset of the Google Landmarks Dataset v2.
 
 
   	├── sample_image_folder    <- contains a sample images to test the application
-  	├── src    <- The folder contains all Python file used for the project
+  	├── src    <- The folder contains all Python files used for the project
   		├── _init_.py             
-  		├── data.py           <- dataloader python file
+  		├── data.py           <- data loader python file
    		├── create_submit_pkg.py 
     	├── helpers.py <- helper python file
      	├── model.py <- build a CNN model python file
@@ -52,7 +52,7 @@ The landmark images are a subset of the Google Landmarks Dataset v2.
   	├── Cnn_from_scratch notebook and HTML file     <- This is a Jupyter notebook or HTML file where I test the source Python files
   	├── requirement text file     <- This is the requirement text file that needs to be installed locally in order to run the app and notebook
   	├── transfer_learning notebook and HTML file     <- This is a Jupyter notebook or HTML file where I test the source Python files
-  	├── gitignore <- the file holds untracked files
+  	├── .gitignore <- The file holds untracked files
   	└── README.md            <- Top-level README
 
   ## Author
