@@ -10,7 +10,7 @@ In this project, I address this problem by building a CNN-powered app to automat
 
 ## Outcome
 
-Built a Convolutional Neural Network Model from scratch and a Pretrained model (RESNET) to train the dataset. 
+Built a Convolutional Neural Network Model from scratch and a pretrained model (RESNET) to train the dataset. 
 
 ## How to use the app
 
@@ -34,24 +34,24 @@ The landmark images are a subset of the Google Landmarks Dataset v2.
 
 
 
-  ├── sample_image_folder    <- contains a sample images to test the application
-  ├── src    <- python file for all project
-  	├── _init_.py             
-  	├── data.py           <- dataloader python file
-   	├── create_submit_pkg.py 
-    	├── helpers.py <- helper python file
-     	├── model.py <- build a CNN model python file
-      	├── optimization.py <- model optimization python file
-       	├── predi ctor.py <- model predictor python file
-	├── train.py <- model trianing python file
- 	├── transfer.py <- transfer learning python file
+  	├── sample_image_folder    <- contains a sample images to test the application
+  	├── src    <- python file for all project
+  		├── _init_.py             
+  		├── data.py           <- dataloader python file
+   		├── create_submit_pkg.py 
+    		├── helpers.py <- helper python file
+     		├── model.py <- build a CNN model python file
+      		├── optimization.py <- model optimization python file
+       		├── predictor.py <- model predictor python file
+		├── train.py <- model training python file
+ 		├── transfer.py <- transfer learning python file
   
-  ├── app notebook and app HTML     <- Jupyter notebook and HTML link to test sample images
-  ├── Cnn_from_scratch notebook and HTML file     <- This is a Jupyter notebook or HTML file where I test the source Python files
-  ├── requirement text file     <- This is the requirement text file that needs to be installed locally in order to run the app and notebook
-  ├── transfer_learning notebook and HTML file     <- This is a Jupyter notebook or HTML file where I test the source Python files
-  ├── gitignore <- the file holds untracked files
-  └── README.md            <- Top-level README
+  	├── app notebook and app HTML     <- Jupyter notebook and HTML link to test sample images
+  	├── Cnn_from_scratch notebook and HTML file     <- This is a Jupyter notebook or HTML file where I test the source Python files
+  	├── requirement text file     <- This is the requirement text file that needs to be installed locally in order to run the app and notebook
+  	├── transfer_learning notebook and HTML file     <- This is a Jupyter notebook or HTML file where I test the source Python files
+  	├── gitignore <- the file holds untracked files
+  	└── README.md            <- Top-level README
 
   ## Author
 
