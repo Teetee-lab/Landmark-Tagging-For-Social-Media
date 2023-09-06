@@ -35,16 +35,16 @@ The landmark images are a subset of the Google Landmarks Dataset v2.
 
 
   	├── sample_image_folder    <- contains a sample images to test the application
-  	├── src    <- python file for all project
+  	├── src    <- The folder contains all python file used for the project
   		├── _init_.py             
   		├── data.py           <- dataloader python file
    		├── create_submit_pkg.py 
-    		├── helpers.py <- helper python file
-     		├── model.py <- build a CNN model python file
-      		├── optimization.py <- model optimization python file
-       		├── predictor.py <- model predictor python file
-		├── train.py <- model training python file
- 		├── transfer.py <- transfer learning python file
+    	├── helpers.py <- helper python file
+     	├── model.py <- build a CNN model python file
+      	├── optimization.py <- model optimization python file
+       	├── predictor.py <- model predictor python file
+	├── train.py <- model training python file
+ 	├── transfer.py <- transfer learning python file
   
   	├── app notebook and app HTML     <- Jupyter notebook and HTML link to test sample images
   	├── Cnn_from_scratch notebook and HTML file     <- This is a Jupyter notebook or HTML file where I test the source Python files
