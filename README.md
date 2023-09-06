@@ -1,6 +1,6 @@
 # Landmark Tagging For Social Media
 
-![World-Countries-image from google-istockphotos](https://github.com/Teetee-lab/Landmark-Tagging-For-Social-Media/edit/main/sample_img_for _app/wrldlandmark.jpeg?, raw = True)
+![World-Countries-image from google-istockphotos](https://github.com/Teetee-lab/Landmark-Tagging-For-Social-Media/edit/main/sample_img_for _app/wrldlandmark.jpeg?raw = True)
 
 ## Project Overview
 
