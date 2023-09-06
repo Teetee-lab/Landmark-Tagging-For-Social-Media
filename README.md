@@ -1,6 +1,6 @@
 # Landmark Tagging For Social Media
 
-![World-Countries-image from google-istockphotos](/sample-img/wrldlandmark.jpeg)
+![World-Countries-image from google-istockphotos](/sample-img/wrldlandmark.jpeg, width = '150', height ='100')
 
 ## Project Overview
 
