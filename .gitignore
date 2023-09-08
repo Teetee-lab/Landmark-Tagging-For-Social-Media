@@ -1,7 +1,6 @@
 # Data folder
 static_images/
 landmark_images/
-checkpoints/
 
 #For macs
 .DS_Store
