@@ -12,7 +12,7 @@ In this project, I address this problem by building a CNN-powered app to automat
 
 ## Outcome
 
-Built a Convolutional Neural Network Model from scratch and a pre-trained model (RESNET) to train the dataset. 
+Developed a Convolutional Neural Network Model from scratch and a Pre-trained Pytorch model (RESNET18) to train the dataset. 
 
 ## How to use the app
 
